@@ -1,4 +1,4 @@
-![alt text]([[http://url/to/img.png](https://github.com/oronmoz/BLINKER-App/blob/main/blinker_LG3.png?raw=true](https://raw.githubusercontent.com/oronmoz/BLINKER-App/main/blinker_LG3.png)))
+![alt text](https://github.com/[oronmoz]/[BLINKER-App]/blob/[Main]/blinker_LG3.png?raw=true)
 
 
 
