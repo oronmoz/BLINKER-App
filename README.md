@@ -1,3 +1,8 @@
+![alt text]([http://url/to/img.png](https://github.com/oronmoz/BLINKER-App/blob/main/blinker_LG3.png?raw=true))
+
+
+
+
 # BLINKER
 
 BLINKER Mobile Application
