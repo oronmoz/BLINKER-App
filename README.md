@@ -5,7 +5,7 @@
 
 # BLINKER
 
-BLINKER Mobile Application
+
 BLINKER is a comprehensive mobile application that caters to the various needs of vehicle owners and enthusiasts. The app provides a one-stop solution for managing your vehicle, connecting with the automotive community, and accessing a range of services. This readme file provides an overview of the key features and functionalities of the BLINKER app.
 Key Features
 
